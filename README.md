@@ -5,10 +5,6 @@ This project was completed as part of a Udemy Course:
 
 The tutor provides project requirements and encourages students to build the solution independently before reviewing the tutor's solution.
 
-This solution contains the following two projects:
-- `CookieCookbook` (Built by me before viewing the tutor's solution)
-- `CookieCookbookTutorSolution` (Tutor's solution)
-
 ---
 
 ## 🛠 Built With
